@@ -12,7 +12,7 @@ This is a script that generates Aptos accounts and saves them to a file.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:methodnumber13/aptos-scripts.git
     ```
 2. Install dependencies:
 
