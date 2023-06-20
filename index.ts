@@ -58,7 +58,7 @@ const generateAccounts = () => {
 
         fs.writeFile(process.env.FILE_PATH || 'output.txt', fileData, (err) => {
             if (err) {
-                console.error('Error writing fileЖ', err);
+                console.error('Error writing file', err);
             } else {
                 console.log('Data successfully written to file');
             }
